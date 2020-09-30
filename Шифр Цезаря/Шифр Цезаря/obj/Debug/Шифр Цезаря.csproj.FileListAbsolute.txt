@@ -1,0 +1,10 @@
+C:\Users\jcln\Documents\code\Шифр Цезаря\Шифр Цезаря\bin\Debug\Шифр Цезаря.exe.config
+C:\Users\jcln\Documents\code\Шифр Цезаря\Шифр Цезаря\bin\Debug\Шифр Цезаря.exe
+C:\Users\jcln\Documents\code\Шифр Цезаря\Шифр Цезаря\bin\Debug\Шифр Цезаря.pdb
+C:\Users\jcln\Documents\code\Шифр Цезаря\Шифр Цезаря\obj\Debug\Шифр Цезаря.csprojAssemblyReference.cache
+C:\Users\jcln\Documents\code\Шифр Цезаря\Шифр Цезаря\obj\Debug\Шифр_Цезаря.Form1.resources
+C:\Users\jcln\Documents\code\Шифр Цезаря\Шифр Цезаря\obj\Debug\Шифр_Цезаря.Properties.Resources.resources
+C:\Users\jcln\Documents\code\Шифр Цезаря\Шифр Цезаря\obj\Debug\Шифр Цезаря.csproj.GenerateResource.cache
+C:\Users\jcln\Documents\code\Шифр Цезаря\Шифр Цезаря\obj\Debug\Шифр Цезаря.csproj.CoreCompileInputs.cache
+C:\Users\jcln\Documents\code\Шифр Цезаря\Шифр Цезаря\obj\Debug\Шифр Цезаря.exe
+C:\Users\jcln\Documents\code\Шифр Цезаря\Шифр Цезаря\obj\Debug\Шифр Цезаря.pdb
